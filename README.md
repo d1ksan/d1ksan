@@ -24,10 +24,20 @@
 I've spent a significant amount of time writing code in **C** as part of School 21 projects. This gave me a deep understanding of memory management, algorithms, and software architecture. Now, I'm purposefully developing myself as a 🎯**Java backend developer**, applying the discipline and systematic approach honed through low-level programming.
 
 ---
-
+<div align="center">
+  
 ### 🚀 Projects
+</div>
 
-Here are some projects that showcase my evolution from systems programming to backend development.
+<div align="center">
+
+| Project | Technologies | Description | Status |
+|:--------|:-------------|:------------|:-------|
+| **S21_StringPlus** | `C`, `Make` | Implementation of the string.h library with additions, including own implementation of sprintf and sscanf functions | ✅ Completed |
+| **TicTacToe** | `Java` | Simple console-based Tic-Tac-Toe game for two players (human vs human). Features 3x3 board, turn-based input, win/draw detection, and input validation | ✅ Completed |
+| **SimplePingPong** | `Java` | Simple console-based Ping Pong game with basic game loop, player controls, and ball physics rendered entirely in the terminal | ✅ Completed |
+
+</div>
 
 
 <p align="center" style="white-space: nowrap;">
@@ -38,21 +48,13 @@ Here are some projects that showcase my evolution from systems programming to ba
 </p>
                      
 ---
-### 🎯 Looking for
 <div align="center">
-
-| | |
-|:---:|:---|
-| **Position** | Intern Java Developer |
-| **Stack** | Java, Spring, Hibernate, Databases |
-| **Growth** | Mentorship & learning opportunities |
-| **Conditions** | Flexible with studies (RUDN + School 21) |
-
-</div>
-
----
+  
 ### 📫 Contact Me
+
+
 
 📱 **Telegram:** [@ekhest21](https://t.me/ekhest21)  
 ✉️ **Email:** [ekhestt@yandex.ru](mailto:ekhestt@yandex.ru)
 
+</div>
