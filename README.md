@@ -15,7 +15,7 @@
 | **🏛️ University** | RUDN University (Patrice Lumumba Peoples' Friendship University of Russia) |
 | **📐 Major** | Applied Mathematics and Computer Science |
 | **🚀 Specialization** | Mathematical Methods of Flight Mechanics of Launch Vehicles and Spacecraft |
-| **⚡ School 21** | nickname - `bulakath`, development in **C** |
+| **🎓 School 21** | nickname - `bulakath`, development in **C** |
 
 </div>
 
@@ -38,13 +38,19 @@ I've spent a significant amount of time writing code in **C** as part of School 
 | **SimplePingPong** | `Java` | Simple console-based Ping Pong game with basic game loop, player controls, and ball physics rendered entirely in the terminal | ✅ Completed |
 
 </div>
-
+<div align="center">
+  
+### ⚡️ My skills
+</div>
 
 <p align="center" style="white-space: nowrap;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="45" height="45"/>
+          
 </p>
                      
 ---
