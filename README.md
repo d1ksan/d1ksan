@@ -33,6 +33,7 @@ I've spent a significant amount of time writing code in **C** as part of School 
 
 | Project | Technologies | Description | Status |
 |:--------|:-------------|:------------|:-------|
+| **CleanerBot** | `Java`, `Maven`, `SQLite`, `Telegram Bots API` | Telegram-бот для организации уборки в общих помещениях. Позволяет создавать комнаты, приглашать участников, планировать задачи и расписания| 🚧 In Progress |
 | **S21_StringPlus** | `C`, `Make` | Implementation of the string.h library with additions, including own implementation of sprintf and sscanf functions | ✅ Completed |
 | **TicTacToe** | `Java` | Simple console-based Tic-Tac-Toe game for two players (human vs human). Features 3x3 board, turn-based input, win/draw detection, and input validation | ✅ Completed |
 | **SimplePingPong** | `Java` | Simple console-based Ping Pong game with basic game loop, player controls, and ball physics rendered entirely in the terminal | ✅ Completed |
